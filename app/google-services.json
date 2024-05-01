@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891375264249",
+    "project_id": "fir-temp-a273a",
+    "storage_bucket": "fir-temp-a273a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891375264249:android:c95300678f00cd8a255d28",
+        "android_client_info": {
+          "package_name": "com.nk.firebasetemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891375264249-o3nrslcfc3td8soq6r8vs1mu9sopda57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nk.firebasetemp",
+            "certificate_hash": "7f80773fd6e9b1d05c9a3b60ba0b8b3457cc0aa5"
+          }
+        },
+        {
+          "client_id": "891375264249-uj4ja6ckqkjdrsd8hun4fg85bhs81gdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGpvVMsN5iCAOsofisP5XFuQ05DEqwA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891375264249-5oapbetnilu5t0isvp0id7rv1l8ph8nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
